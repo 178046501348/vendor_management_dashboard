@@ -1,7 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    basePath: "/vendor_management_dashboard",
-    output: "export",
-}
+const nextConfig = {}
 
 module.exports = nextConfig
